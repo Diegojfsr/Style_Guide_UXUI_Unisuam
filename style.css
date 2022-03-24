@@ -1,0 +1,54 @@
+
+
+  .homeButton{
+    display: inline-block;
+    background-color: var(--first-color-dark);
+    color: var(--white-color);
+    padding: 1.125rem 2rem;
+    border-radius: .5rem;
+    border: none;
+  }
+  
+  .homeButton:hover{
+    background-color: var(--first-color-darken);
+  }
+
+
+
+  .homeButton2{
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5px 10px;
+
+position: absolute;
+width: 85px;
+height: 25px;
+left: 657px;
+top: 531px;
+
+/* verde/main */
+
+background: #6CD1E4;
+/* Cinza/dark */
+
+border: 0.5px solid #D0D0D0;
+box-sizing: border-box;
+border-radius: 2px;
+    
+  }
+
+  .homeButton2:hover{
+    background-color: var(--first-color-darken);
+  }
+
+
+
+
+
+
+
+
+
